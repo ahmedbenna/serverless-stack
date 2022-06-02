@@ -1,5 +1,11 @@
 # @serverless-stack/core
 
+## 1.2.14
+
+### Patch Changes
+
+- [`db06a415`](https://github.com/serverless-stack/serverless-stack/commit/db06a415c6cee32d198e3582e6f1e775209eed5b) Thanks [@thdxr](https://github.com/thdxr)! - Fix for esbuild entrypoint in windows
+
 ## 1.2.13
 
 ### Patch Changes
